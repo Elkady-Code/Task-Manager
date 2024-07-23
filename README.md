@@ -17,11 +17,11 @@ This repository contains a Task Manager API built using Node.js and Express. The
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Elkady-Code/Task-Manager-Backend
+    git clone https://github.com/Elkady-Code/Task-Manager
     ```
 2. Navigate to the project directory:
     ```sh
-    cd task-manager-backend
+    cd Task-Manager
     ```
 3. Install dependencies:
     ```sh
